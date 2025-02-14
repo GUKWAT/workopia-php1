@@ -1,6 +1,6 @@
 <?php
 require '../helpers.php';
-require basePath('router.php');
+require basePath('Router.php');
 require basePath('Database.php');
 
 // Instatiate the router
